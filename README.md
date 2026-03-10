@@ -163,13 +163,6 @@ I'm an **AI/ML Engineer** based in **South Korea**, currently working at **Wizpl
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtiyorjondadajonov&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
