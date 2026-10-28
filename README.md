@@ -20,7 +20,7 @@
   <img align="right" width="260"                                                                                                                                                                            
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVsdnQ5MWo0cHR2NzlpZm9yeTR5cnJjbG1sOHprZWZiMHd4dHZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
                                                                                                                                                                                                             
-  I'm an **AI/ML Engineer** based in **South Korea** :kr:, currently working at **Green Climate Fund**  where I build production-grade machine learning systems. My work spans the full ML lifecycle — from data        
+  I'm an **AI/ML developer** based in **South Korea** :kr:, currently working at **Green Climate Fund**  where I build production-grade machine learning systems. My work spans the full ML lifecycle — from data        
   pipelines and model training to deployment and monitoring.
                                                                                                                                                                                                             
   🔭  Working on **production LLM systems** and **ML pipelines**                                                                                                                                            
